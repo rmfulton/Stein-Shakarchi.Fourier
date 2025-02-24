@@ -14,3 +14,7 @@ An interactive notebook for the Princeton Lectures in Analysis, Vol I
 
 # By Mar. 15
 - I should be able to write LaTeX equations
+
+
+### Instructions to Build Locally
+- [install ruby and jekyll](https://jekyllrb.com/docs/installation/macos/)
