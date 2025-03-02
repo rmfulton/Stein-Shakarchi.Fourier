@@ -21,3 +21,4 @@ An interactive notebook for the Princeton Lectures in Analysis, Vol I
 
 ### Instructions to Build Locally
 - [install ruby and jekyll](https://jekyllrb.com/docs/installation/macos/)
+- run `bundle exec jekyll serve`
